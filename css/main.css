@@ -1,5 +1,8 @@
-.container {
-  width: 45%;
-  margin-left: auto;
-  margin-right: auto;
+h1 a {
+    color: #343a40;
+}
+
+h1 a:hover {
+    color: #000000;
+    text-decoration: none;
 }
