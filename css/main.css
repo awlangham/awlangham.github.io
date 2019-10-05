@@ -2,11 +2,11 @@ h1 {
     padding-top: 35px;
 }
 
-h1 a, .nav-links a {
+.nav-links a {
     color: #343a40;
 }
 
-h1 a:hover, .nav-links a:hover {
+.nav-links a:hover {
     color: #000000;
     text-decoration: none;
 }
