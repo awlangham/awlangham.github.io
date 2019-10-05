@@ -18,3 +18,7 @@ h1 {
 .nav-links a.active {
     text-decoration: underline;
 }
+
+ul li {
+    font-style: italic;
+}
