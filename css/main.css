@@ -14,3 +14,7 @@ h1 {
 .nav-links a + a {
     padding-left: 15px;
 }
+
+.nav-links a.active {
+    text-decoration: underline;
+}
