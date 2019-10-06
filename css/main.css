@@ -12,11 +12,11 @@ h1 {
 }
 
 .nav-links a + a {
-    padding-left: 15px;
+    margin-left: 15px;
 }
 
 .nav-links a.active {
-    text-decoration: underline;
+    border-bottom: 1px solid #343a40;
 }
 
 ul li {
