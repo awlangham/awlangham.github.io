@@ -1,3 +1,7 @@
+.container-fluid {
+  max-width: 1170px;
+}
+
 h1 {
     padding-top: 35px;
 }
