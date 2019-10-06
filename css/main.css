@@ -1,0 +1,28 @@
+.container-fluid {
+  max-width: 1170px;
+}
+
+h1 {
+    padding-top: 35px;
+}
+
+.nav-links a {
+    color: #343a40;
+}
+
+.nav-links a:hover {
+    color: #000000;
+    text-decoration: none;
+}
+
+.nav-links a + a {
+    margin-left: 15px;
+}
+
+.nav-links a.active {
+    border-bottom: 1px solid #343a40;
+}
+
+ul li {
+    font-style: italic;
+}
