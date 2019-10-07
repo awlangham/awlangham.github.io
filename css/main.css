@@ -26,3 +26,7 @@ h1 {
 ul li {
     font-style: italic;
 }
+
+ul.split-3 {
+  column-count: 3;
+}
