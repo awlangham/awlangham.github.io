@@ -27,6 +27,10 @@ ul li {
     font-style: italic;
 }
 
+ul.split-2 {
+  column-count: 2;
+}
+
 ul.split-3 {
   column-count: 3;
 }
