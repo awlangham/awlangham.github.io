@@ -34,3 +34,15 @@ ul.split-2 {
 ul.split-3 {
   column-count: 3;
 }
+
+.publication {
+  margin-bottom: 1rem;
+}
+
+.publication p {
+  margin-bottom: 0px;
+}
+
+.publisher {
+  font-style: italic;
+}
